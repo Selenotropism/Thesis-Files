@@ -1,0 +1,1100 @@
+Number 0 is this:
+0    0    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+           
+X    0    
+
+Number 1 is this:
+0    0    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+           
+0    X    
+
+Number 2 is this:
+0    0    
+           
+0    0    
+           
+0    0    
+           
+X    0    
+           
+0    0    
+
+Number 3 is this:
+0    0    
+           
+0    0    
+           
+0    0    
+           
+0    X    
+           
+0    0    
+
+Number 4 is this:
+0    0    
+           
+0    0    
+           
+X    0    
+           
+0    0    
+           
+0    0    
+
+Number 5 is this:
+0    0    
+           
+0    0    
+           
+0    X    
+           
+0    0    
+           
+0    0    
+
+Number 6 is this:
+0    0    
+           
+X    0    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+
+Number 7 is this:
+0    0    
+           
+0    X    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+
+Number 8 is this:
+X    0    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+
+Number 9 is this:
+0    X    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+
+Number 10 is this:
+0    0    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+           
+X----X    
+
+Number 11 is this:
+0    0    
+           
+0    0    
+           
+0    0    
+           
+X----X    
+           
+0    0    
+
+Number 12 is this:
+0    0    
+           
+0    0    
+           
+X----X    
+           
+0    0    
+           
+0    0    
+
+Number 13 is this:
+0    0    
+           
+X----X    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+
+Number 14 is this:
+X----X    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+
+Number 15 is this:
+0    0    
+           
+0    0    
+           
+0    0    
+           
+X    0    
+|          
+X    0    
+
+Number 16 is this:
+0    0    
+           
+0    0    
+           
+0    0    
+           
+0    X    
+     |     
+0    X    
+
+Number 17 is this:
+0    0    
+           
+0    0    
+           
+X    0    
+|          
+X    0    
+           
+0    0    
+
+Number 18 is this:
+0    0    
+           
+0    0    
+           
+0    X    
+     |     
+0    X    
+           
+0    0    
+
+Number 19 is this:
+0    0    
+           
+X    0    
+|          
+X    0    
+           
+0    0    
+           
+0    0    
+
+Number 20 is this:
+0    0    
+           
+0    X    
+     |     
+0    X    
+           
+0    0    
+           
+0    0    
+
+Number 21 is this:
+X    0    
+|          
+X    0    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+
+Number 22 is this:
+0    X    
+     |     
+0    X    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+
+Number 23 is this:
+0    0    
+           
+0    0    
+           
+0    0    
+           
+X----X    
+|    |     
+X----X    
+
+Number 24 is this:
+0    0    
+           
+0    0    
+           
+0    0    
+           
+X    0    
+|          
+X----X    
+
+Number 25 is this:
+0    0    
+           
+0    0    
+           
+0    0    
+           
+X----X    
+     |     
+0    X    
+
+Number 26 is this:
+0    0    
+           
+0    0    
+           
+X----X    
+|    |     
+X----X    
+           
+0    0    
+
+Number 27 is this:
+0    0    
+           
+0    0    
+           
+X    0    
+|          
+X----X    
+           
+0    0    
+
+Number 28 is this:
+0    0    
+           
+0    0    
+           
+X----X    
+     |     
+0    X    
+           
+0    0    
+
+Number 29 is this:
+0    0    
+           
+X----X    
+|    |     
+X----X    
+           
+0    0    
+           
+0    0    
+
+Number 30 is this:
+0    0    
+           
+X    0    
+|          
+X----X    
+           
+0    0    
+           
+0    0    
+
+Number 31 is this:
+0    0    
+           
+X----X    
+     |     
+0    X    
+           
+0    0    
+           
+0    0    
+
+Number 32 is this:
+X----X    
+|    |     
+X----X    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+
+Number 33 is this:
+X    0    
+|          
+X----X    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+
+Number 34 is this:
+X----X    
+     |     
+0    X    
+           
+0    0    
+           
+0    0    
+           
+0    0    
+
+Number 35 is this:
+0    0    
+           
+0    0    
+           
+X    0    
+|          
+X    0    
+|          
+X    0    
+
+Number 36 is this:
+0    0    
+           
+0    0    
+           
+0    X    
+     |     
+0    X    
+     |     
+0    X    
+
+Number 37 is this:
+0    0    
+           
+X    0    
+|          
+X    0    
+|          
+X    0    
+           
+0    0    
+
+Number 38 is this:
+0    0    
+           
+0    X    
+     |     
+0    X    
+     |     
+0    X    
+           
+0    0    
+
+Number 39 is this:
+X    0    
+|          
+X    0    
+|          
+X    0    
+           
+0    0    
+           
+0    0    
+
+Number 40 is this:
+0    X    
+     |     
+0    X    
+     |     
+0    X    
+           
+0    0    
+           
+0    0    
+
+Number 41 is this:
+0    0    
+           
+0    0    
+           
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+
+Number 42 is this:
+0    0    
+           
+0    0    
+           
+X    0    
+|          
+X----X    
+|    |     
+X----X    
+
+Number 43 is this:
+0    0    
+           
+0    0    
+           
+X    0    
+|          
+X    0    
+|          
+X----X    
+
+Number 44 is this:
+0    0    
+           
+0    0    
+           
+X----X    
+|    |     
+X----X    
+     |     
+0    X    
+
+Number 45 is this:
+0    0    
+           
+0    0    
+           
+X    0    
+|          
+X----X    
+     |     
+0    X    
+
+Number 46 is this:
+0    0    
+           
+0    0    
+           
+X----X    
+     |     
+0    X    
+     |     
+0    X    
+
+Number 47 is this:
+0    0    
+           
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+           
+0    0    
+
+Number 48 is this:
+0    0    
+           
+X    0    
+|          
+X----X    
+|    |     
+X----X    
+           
+0    0    
+
+Number 49 is this:
+0    0    
+           
+X    0    
+|          
+X    0    
+|          
+X----X    
+           
+0    0    
+
+Number 50 is this:
+0    0    
+           
+X----X    
+|    |     
+X----X    
+     |     
+0    X    
+           
+0    0    
+
+Number 51 is this:
+0    0    
+           
+X    0    
+|          
+X----X    
+     |     
+0    X    
+           
+0    0    
+
+Number 52 is this:
+0    0    
+           
+X----X    
+     |     
+0    X    
+     |     
+0    X    
+           
+0    0    
+
+Number 53 is this:
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+           
+0    0    
+           
+0    0    
+
+Number 54 is this:
+X    0    
+|          
+X----X    
+|    |     
+X----X    
+           
+0    0    
+           
+0    0    
+
+Number 55 is this:
+X    0    
+|          
+X    0    
+|          
+X----X    
+           
+0    0    
+           
+0    0    
+
+Number 56 is this:
+X----X    
+|    |     
+X----X    
+     |     
+0    X    
+           
+0    0    
+           
+0    0    
+
+Number 57 is this:
+X    0    
+|          
+X----X    
+     |     
+0    X    
+           
+0    0    
+           
+0    0    
+
+Number 58 is this:
+X----X    
+     |     
+0    X    
+     |     
+0    X    
+           
+0    0    
+           
+0    0    
+
+Number 59 is this:
+0    0    
+           
+X    0    
+|          
+X    0    
+|          
+X    0    
+|          
+X    0    
+
+Number 60 is this:
+0    0    
+           
+0    X    
+     |     
+0    X    
+     |     
+0    X    
+     |     
+0    X    
+
+Number 61 is this:
+X    0    
+|          
+X    0    
+|          
+X    0    
+|          
+X    0    
+           
+0    0    
+
+Number 62 is this:
+0    X    
+     |     
+0    X    
+     |     
+0    X    
+     |     
+0    X    
+           
+0    0    
+
+Number 63 is this:
+0    0    
+           
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+
+Number 64 is this:
+0    0    
+           
+X    0    
+|          
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+
+Number 65 is this:
+0    0    
+           
+X    0    
+|          
+X    0    
+|          
+X----X    
+|    |     
+X----X    
+
+Number 66 is this:
+0    0    
+           
+X    0    
+|          
+X    0    
+|          
+X    0    
+|          
+X----X    
+
+Number 67 is this:
+0    0    
+           
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+     |     
+0    X    
+
+Number 68 is this:
+0    0    
+           
+X    0    
+|          
+X----X    
+|    |     
+X----X    
+     |     
+0    X    
+
+Number 69 is this:
+0    0    
+           
+X    0    
+|          
+X    0    
+|          
+X----X    
+     |     
+0    X    
+
+Number 70 is this:
+0    0    
+           
+X----X    
+|    |     
+X----X    
+     |     
+0    X    
+     |     
+0    X    
+
+Number 71 is this:
+0    0    
+           
+X    0    
+|          
+X----X    
+     |     
+0    X    
+     |     
+0    X    
+
+Number 72 is this:
+0    0    
+           
+X----X    
+     |     
+0    X    
+     |     
+0    X    
+     |     
+0    X    
+
+Number 73 is this:
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+           
+0    0    
+
+Number 74 is this:
+X    0    
+|          
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+           
+0    0    
+
+Number 75 is this:
+X    0    
+|          
+X    0    
+|          
+X----X    
+|    |     
+X----X    
+           
+0    0    
+
+Number 76 is this:
+X    0    
+|          
+X    0    
+|          
+X    0    
+|          
+X----X    
+           
+0    0    
+
+Number 77 is this:
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+     |     
+0    X    
+           
+0    0    
+
+Number 78 is this:
+X    0    
+|          
+X----X    
+|    |     
+X----X    
+     |     
+0    X    
+           
+0    0    
+
+Number 79 is this:
+X    0    
+|          
+X    0    
+|          
+X----X    
+     |     
+0    X    
+           
+0    0    
+
+Number 80 is this:
+X----X    
+|    |     
+X----X    
+     |     
+0    X    
+     |     
+0    X    
+           
+0    0    
+
+Number 81 is this:
+X    0    
+|          
+X----X    
+     |     
+0    X    
+     |     
+0    X    
+           
+0    0    
+
+Number 82 is this:
+X----X    
+     |     
+0    X    
+     |     
+0    X    
+     |     
+0    X    
+           
+0    0    
+
+Number 83 is this:
+X    0    
+|          
+X    0    
+|          
+X    0    
+|          
+X    0    
+|          
+X    0    
+
+Number 84 is this:
+0    X    
+     |     
+0    X    
+     |     
+0    X    
+     |     
+0    X    
+     |     
+0    X    
+
+Number 85 is this:
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+
+Number 86 is this:
+X    0    
+|          
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+
+Number 87 is this:
+X    0    
+|          
+X    0    
+|          
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+
+Number 88 is this:
+X    0    
+|          
+X    0    
+|          
+X    0    
+|          
+X----X    
+|    |     
+X----X    
+
+Number 89 is this:
+X    0    
+|          
+X    0    
+|          
+X    0    
+|          
+X    0    
+|          
+X----X    
+
+Number 90 is this:
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+     |     
+0    X    
+
+Number 91 is this:
+X    0    
+|          
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+     |     
+0    X    
+
+Number 92 is this:
+X    0    
+|          
+X    0    
+|          
+X----X    
+|    |     
+X----X    
+     |     
+0    X    
+
+Number 93 is this:
+X    0    
+|          
+X    0    
+|          
+X    0    
+|          
+X----X    
+     |     
+0    X    
+
+Number 94 is this:
+X----X    
+|    |     
+X----X    
+|    |     
+X----X    
+     |     
+0    X    
+     |     
+0    X    
+
+Number 95 is this:
+X    0    
+|          
+X----X    
+|    |     
+X----X    
+     |     
+0    X    
+     |     
+0    X    
+
+Number 96 is this:
+X    0    
+|          
+X    0    
+|          
+X----X    
+     |     
+0    X    
+     |     
+0    X    
+
+Number 97 is this:
+X----X    
+|    |     
+X----X    
+     |     
+0    X    
+     |     
+0    X    
+     |     
+0    X    
+
+Number 98 is this:
+X    0    
+|          
+X----X    
+     |     
+0    X    
+     |     
+0    X    
+     |     
+0    X    
+
+Number 99 is this:
+X----X    
+     |     
+0    X    
+     |     
+0    X    
+     |     
+0    X    
+     |     
+0    X    
+
